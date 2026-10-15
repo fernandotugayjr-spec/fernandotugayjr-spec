@@ -1,4 +1,4 @@
-HI there, I'm Ferdz!
+HI there, I'm Ferdthiz!
 BSIT Student | Aspiring IT Professional | Traditional Artist
 
 I'm an Information Technology student passionate about programming, I'm currently building my skills through hands on practice,personal projects, and exploring different areas of IT.
