@@ -1,16 +1,16 @@
-## Hi there 👋
+HI there, I'm Ferdz!
+BSIT Student | Aspiring IT Professional | Traditional Artist
 
-<!--
-**fernandotugayjr-spec/fernandotugayjr-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student passionate about programming, I'm currently building my skills through hands on practice,personal projects, and exploring different areas of IT.
 
-Here are some ideas to get you started:
+About Me!
+-Currently studying Bachelor of Science in Information Technology 
+-Learning programming and web development
+-Interested in IT support,cybersecurity and software development
+-Exploring AI and automation through personal projects
+-A traditional artist who enjoys creativity both on and off the screen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Goals 
+-Improve my HTML, CSS
+-Learn Git and Git-hub workflows.
+-Build practical projects that solve real-world problems.
